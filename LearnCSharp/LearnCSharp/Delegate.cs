@@ -9,5 +9,6 @@ namespace LearnCSharp
     class Delegate
     {
         string a = "dd";
+        string dd = "ff";
     }
 }
